@@ -1,0 +1,205 @@
+.navbg{
+    background-color: rgba(0, 0, 0, 0.362);
+}
+
+#nav-logo{
+    color: #EAB41E;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 25px;
+}
+
+#navItem1 {
+    color: #ffffff;
+    font-family: "Roboto";
+}
+
+#navItem2 {
+    color: #ffffff;
+    font-family: "Roboto";
+}
+
+#navItem3 {
+    color: #ffffff;
+    font-family: "Roboto";
+}
+
+#navItem4 {
+    color: #ffffff;
+    font-family: "Roboto";
+}
+
+#navbtn{
+    color: #EAB41E;
+    border-color:  #EAB41E;
+}
+
+.landing-bg{
+    background-image: url("mainBG.jpg");
+    background-size: cover;
+    height: 100vh;
+}
+
+.name{
+    color: #EAB41E;
+    font-family: monospace;
+}
+
+.intro{
+    background-color: rgba(186, 186, 195, 0.348);
+    padding-top: 80px;
+}
+
+.intro-text{
+    color: #65d1ee;
+    text-align: end;
+    padding: 20px;
+}
+
+.mainphoto{
+    height: 350px;
+    width: 350px;
+    transform: translateX(80px) translateY(0px);
+}
+
+.mainbtn{
+    text-align: center;
+    margin: 20px;
+    padding-top: 70px;
+}
+
+.getbtn{
+    background-color: #EAB41E;
+    color: #ffffff;
+    border-radius: 8px;
+    border-width: 0;
+    font-weight: bold;
+    font-size: 18px;
+    font-family: monospace;
+    height: 50px;
+    width: 270px;
+    margin: 10px;
+    letter-spacing: 0.8px;
+}
+
+.resumebtn{
+    background-color: transparent;
+    color: #EAB41E;
+    border-style: solid;
+    border-radius: 8px;
+    border-width: 1pz;
+    border-color: #EAB41E;
+    font-weight: bold;
+    font-size: 18px;
+    font-family: monospace;
+    height: 50px;
+    width: 270px;
+    margin: 10px;
+    letter-spacing: 0.8px;
+}
+
+:hover.resumebtn{
+    background-color: #EAB41E;
+    color: #ffffff;
+}
+
+.bg-about{
+    background-color: black;
+    background-size: cover;
+    height: 100vh;
+    padding: 80px;
+    color: #3498db;
+
+}
+
+.about{
+    color: #EAB41E;
+    font-family: monospace;
+    font-weight: bold;
+}
+
+.about-card{
+    background-color: #ffffff28;
+    border-radius: 12px;
+    padding: 40px;
+}
+.about-discp{
+    font-family: monospace;
+    color: #D4EaE9;
+}
+
+/*Skill Section*/
+
+.skill-bg{
+    background-color: #ffffff;
+    background-size: cover;
+    height: 80vh;
+}
+
+.skill-card{
+    background-color: rgba(33, 32, 32, 0.608);
+    border-radius: 12px;
+    margin: 60px;
+    padding: 40px;
+}
+
+.logo-card{
+    background-color: #ffffff;
+    border-radius: 8px;
+    border-width: 0;
+    box-shadow: black(0, 0, 1 , 1);
+    height: 120px;
+    width: 120px;
+    padding: 15px;
+    margin: 35px;
+    text-align: center;
+
+}
+
+.logo{
+    height: 60px;
+    width: 60px;
+}
+
+.logo-text{
+    font-family: monospace;
+    font-weight: bold;
+    padding-top: 5px;
+}
+
+.contactus{
+    background-color: #192172;
+    background-size: cover;
+    height: 100vh;
+}
+
+.contact-form {
+    margin-top: 30px;
+}
+
+.contact-section{
+    background-color: #343a40;
+    padding: 30px;
+}
+
+.contact-head{
+    color: rgb(225, 170, 28);
+    font-size: 20px;
+    font-weight: bold;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.contact-para{
+    color: white;
+    font-size: 15px;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.icon{
+    font-size: 25px;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
